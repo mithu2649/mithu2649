@@ -5,8 +5,6 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Mithu_Mondal-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/tweetmithu)](https://twitter.com/Isha_1321) [![Gmail Badge](https://img.shields.io/badge/-mithu2649@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mithu2649@gmail.com)](mithu2649@gmail.com)
 
-<br/>
-
 I am mostly into JS and Music ❤, I get distracted by CSS sometimes!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -30,6 +28,7 @@ I am mostly into JS and Music ❤, I get distracted by CSS sometimes!
   ![Processing](https://img.shields.io/badge/-Processing-333333?style=flat&logo=processing-foundation)
 - 🖥 &nbsp;&nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   <br><br>
 - 🎵 &nbsp;

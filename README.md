@@ -1,5 +1,5 @@
 ## Hi there, I am Mithu! 👋
-### Welcome to my Github<br/><br/>
+### Welcome to my Github<br/>
 
 ##### Reach Me at: <br/>
 

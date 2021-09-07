@@ -14,6 +14,7 @@ I am mostly into JS and Music ❤, I get distracted by CSS sometimes!
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
 - 🛢 &nbsp;&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)

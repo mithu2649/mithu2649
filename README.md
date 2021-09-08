@@ -5,6 +5,7 @@
 
 [![Twitter](https://img.shields.io/badge/-Mithu_Mondal-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/tweetmithu)](https://twitter.com/tweetmithu) 
 [![Gmail](https://img.shields.io/badge/-mithu2649@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mithu2649@gmail.com)
+
 I am mostly into JS and Music ❤, I get distracted by CSS sometimes!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

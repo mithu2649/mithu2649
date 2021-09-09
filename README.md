@@ -1,8 +1,8 @@
 ## Hi there, I am Mithu! 👋
 ### Welcome to my Github<br/><br/>
 
-I am mostly into JS and Music ❤, 
-I get distracted by CSS sometimes!
+I am mostly into JS and Music ❤.
+But, I get distracted by CSS sometimes!
 
 ##### Reach Me at: <br/>
 

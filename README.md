@@ -1,6 +1,8 @@
 ## Hi there, I am Mithu! 👋
 ### Welcome to my Github<br/><br/>
 
+I am mostly into JS and Music ❤, 
+I get distracted by CSS sometimes!
 
 ##### Reach Me at: <br/>
 
@@ -8,9 +10,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Mithu_Mondal-1ca0f1?style=flat-square-square&logo=twitter&logoColor=white&link=https://twitter.com/tweetmithu)](https://twitter.com/Isha_1321)
 [![Gmail Badge](https://img.shields.io/badge/-mithu2649@gmail.com-c14438?style=flat-square-square&logo=Gmail&logoColor=white&link=mailto:mithu2649@gmail.com)](mithu2649@gmail.com)
 
-
-I am mostly into JS and Music ❤, 
-I get distracted by CSS sometimes!
 
 ### ⚙ My Tech Stack
 

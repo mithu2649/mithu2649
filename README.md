@@ -9,7 +9,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-mithu2649@gmail.com-c14438?style=flat-square-square&logo=Gmail&logoColor=white&link=mailto:mithu2649@gmail.com)](mithu2649@gmail.com)
 
 
-I am mostly into JS and Music ❤, I get distracted by CSS sometimes!
+I am mostly into JS and Music ❤, 
+I get distracted by CSS sometimes!
 
 ### ⚙ My Tech Stack
 

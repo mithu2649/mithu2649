@@ -8,7 +8,7 @@ But, I get distracted by CSS sometimes!
 
 [![Gmail Badge](https://img.shields.io/badge/-mithu__mon-dd1975?style=flat-square-square&logo=Instagram&logoColor=white&link=mith_mon)](https://instagram.com/mithu_mon)
 [![Twitter Badge](https://img.shields.io/badge/-Mithu_Mondal-1ca0f1?style=flat-square-square&logo=twitter&logoColor=white&link=https://twitter.com/tweetmithu)](https://twitter.com/Isha_1321)
-[![Gmail Badge](https://img.shields.io/badge/-mithu2649@gmail.com-c14438?style=flat-square-square&logo=Gmail&logoColor=white&link=mailto:mithu2649@gmail.com)](mithu2649@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mithu2649@gmail.com-c14438?style=flat-square-square&logo=Gmail&logoColor=white&link=https://mailto:mithu2649@gmail.com)](https://mailto:mithu2649@gmail.com)
 
 
 ### ⚙ My Tech Stack

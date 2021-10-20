@@ -18,7 +18,6 @@ But, I get distracted by CSS sometimes!
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-1565c0&black?style=flat-square&logo=adobe-photoshop&logoColor=000000&labelColor=1565c0&color=1565c0)
 ![Figma](https://img.shields.io/badge/-Figma-a25afc?style=flat-square&logo=figma&logoColor=000)

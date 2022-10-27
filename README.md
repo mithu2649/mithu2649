@@ -45,7 +45,7 @@ But, I get distracted by CSS sometimes!
 
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=mithu2649&show_icons=true&theme=github_dark)
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=mithu2649&show_icons=true&theme=github_dark) -->
 
 
 <!-- ![Contrib Snake Game](https://raw.githubusercontent.com/mithu2649/mithu2649/main/contribs.svg) -->
